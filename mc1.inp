@@ -1,0 +1,10 @@
+[MC]
+plug=0.0
+rgrid=10.0
+sigtot=1.0
+zgrid=0.0,2.0,4.0
+jgap=-1
+jrsrc=0
+Amass=1.0e+6
+cratio=0.1
+nhist=100000000
